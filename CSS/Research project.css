@@ -1,0 +1,86 @@
+body {
+    background-image: url(../photos/pexels-bruno-cervera-3646932.jpg);
+    background-size: cover;
+    background-color: #5cdbaf1c;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+header {
+    background-color: #105f4f85;
+    color: #fff;
+    padding: 20px;
+    text-transform: capitalize;
+    width: 100%;
+}
+
+.one p {
+    background-color: #13514c00;
+    padding: 10px;
+    width: 200px;
+    border-bottom: 5px solid;
+    text-align: center;
+    font-size: 100px;
+    font-family: ui-sans-serif;
+    font-weight: bold;
+}
+
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+main {
+    padding: 20px;
+    background-color: #105f4f85;
+    text-transform: capitalize;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:hover {
+    color: rgb(8, 96, 99);
+}
+
+section {
+    background-color: #00594f94;
+    margin-bottom: 50px;
+    text-decoration: none;
+    width: 700px;
+    padding: 10px;
+    margin: 30px;
+    position: relative;
+    border-radius: 24px;
+    border-right: 6px solid #ffffff;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    margin: 0px;
+}
+
+footer {
+    background-color: #004436f7;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: static;
+    margin-left: 0px;
+    margin-right: -40px;
+}
